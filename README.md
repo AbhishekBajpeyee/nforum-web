@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/williamniemiec/nforum-web/master/docs/images/logo/logo.jpg)
 
-<h1 align='center'>nForum API</h1>
+<h1 align='center'>nForu</h1>
 <p align='center'>Simple web forum built with servlets and JSP without Spring Framework.</p>
 <p align="center">
 	<a href="https://github.com/williamniemiec/nforum-web/actions/workflows/windows.yml"><img src="https://github.com/williamniemiec/nforum-web/actions/workflows/windows.yml/badge.svg" alt=""></a>
